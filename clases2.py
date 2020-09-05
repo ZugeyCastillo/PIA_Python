@@ -22,7 +22,7 @@ class Prestamo:
 
 class Validaciones:
         
-    # Validación para que se escriba algo forzosamente
+    # Validación para que se escriba algo forzosamente cambio
     def validarCadena(self, cadena):
         esCadena = True
         if cadena == "":
